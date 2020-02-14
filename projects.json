@@ -56,13 +56,19 @@
 	 "year": "2019_WS",
 	 "status": 0
     },
-	{
-	 "title": "TankGame",
-	 "folder": "TankGame",
-	 "author": "Sven Vucak",
-	 "year": "2019_WS",
-	 "status": 0
-    }
-   
+  {
+    "title": "TankGame",
+    "folder": "TankGame",
+    "author": "Sven Vucak",
+    "year": "2019_WS",
+    "status": 0
+  },
+  {
+    "title": "Untitled Zombie Game",
+    "folder": "Untitled Zombie Game",
+    "author": "Lukas Foro",
+    "year": "2019_WS",
+    "status":  0
+  }
      	 
 ]
