@@ -28,6 +28,13 @@
 	 "author": "Manuel",
 	 "year": "2019_WS",
 	 "status": 0
+    },
+    {
+        "title": "SpaceJumper",
+        "folder": "2PlayerTetris-WebGLBuild",
+        "author": "David Gangl",
+        "year": "2019_WS",
+        "status": 1
     }
    
      	 
