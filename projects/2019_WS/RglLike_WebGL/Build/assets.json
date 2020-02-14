@@ -1,8 +1,13 @@
 {
-"title": "RglLikeGD",
-"folder": "RglLike_WebGL",
-"autor": "David Engelberger",
-"year": "2019/2020",
-"info": "Rougelike made with help of unity tutorial",
-"satus": "0",
+"companyName": "DefaultCompany",
+"productName": "GDProjekt",
+"dataUrl": "assets.data.unityweb",
+"asmCodeUrl": "assets.asm.code.unityweb",
+"asmMemoryUrl": "assets.asm.memory.unityweb",
+"asmFrameworkUrl": "assets.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
 }
