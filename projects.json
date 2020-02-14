@@ -134,7 +134,12 @@
     "author": "Lukas Jodlbauer",
     "year": "2019_WS",
     "status":  0
-  }
-
-
+  },
+  {
+	 "title": "Endless Jump",
+	 "folder": "WebGL_MeinSPiel",
+	 "author": "Matthias Wetzlmayer",
+	 "year": "2019_WS",
+	 "status": 1
+    }
 ]
