@@ -1,4 +1,11 @@
-[  
+[
+    {
+    "title": "CybertruckRacing",
+    "folder": "CybertruckRacing",
+    "author": "Paul Wiesinger",
+    "year": "2019_WS",
+    "status": 0
+   },
     {
 	 "title": "TowerDefense",
 	 "folder": "BetterTowerDefense",
