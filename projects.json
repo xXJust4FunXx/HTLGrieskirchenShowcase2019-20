@@ -141,5 +141,12 @@
 	 "author": "Matthias Wetzlmayer",
 	 "year": "2019_WS",
 	 "status": 1
-    }
+    },
+	{
+	 "title": "ShootingGame",
+	 "folder": "ShootingGameForGit",
+	 "author": "Elias Baran Bauer",
+	 "year": "2019_WS",
+	 "status": 0
+	}
 ]
