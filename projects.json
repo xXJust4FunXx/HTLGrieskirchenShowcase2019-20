@@ -71,6 +71,13 @@
     "year": "2019_WS",
     "status": -1
   },
+  {
+    "title": "Untitled Zombie Game",
+    "folder": "Untitled Zombie Game",
+    "author": "Lukas Foro",
+    "year": "2019_WS",
+    "status":  0
+  }
       "title": "RglLike_WebGL",
     "folder": "RglLike_WebGL",
     "author": "David Engelberger",
