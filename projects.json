@@ -1,10 +1,10 @@
 [  
     {
-	 "title": "emptytitle",
-	 "folder": "emptyFolder",
-	 "author": "emptyName",
+	 "title": "TowerDefense",
+	 "folder": "BetterTowerDefense",
+	 "author": "Julian Kronlachner",
 	 "year": "2019_WS",
-	 "info": "EmptyInfo",
+	 "info": "TowerDefense Game with unlimited lives",
 	 "status": 0
     },
     {
@@ -35,6 +35,13 @@
         "author": "David Gangl",
         "year": "2019_WS",
         "status": 1
+	},
+	{
+	 "title": "Tetris2Player",
+	 "folder": "2PlayerTetris-WebGLBuild",
+	 "author": "Philipp Seiringer, Patrick Gabriel",
+	 "year": "2019_WS",
+	 "status": 0
     }
    
      	 
