@@ -142,6 +142,13 @@
 	 "year": "2019_WS",
 	 "status": 1
     },
+	{
+	 "title": "ShootingGame",
+	 "folder": "ShootingGameForGit",
+	 "author": "Elias Baran Bauer",
+	 "year": "2019_WS",
+	 "status": 0
+	},
     {
       "title": "ZombieShooterDingsbums",
       "folder": "ZombieShooterDingsbums",
