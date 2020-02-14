@@ -134,6 +134,39 @@
     "author": "Lukas Gumpinger",
     "year": "2019_WS",
     "status": 0
-  }
-
+  },
+  {
+	 "title": "Endless Jump",
+	 "folder": "WebGL_MeinSPiel",
+	 "author": "Matthias Wetzlmayer",
+	 "year": "2019_WS",
+	 "status": 1
+    },
+	{
+	 "title": "ShootingGame",
+	 "folder": "ShootingGameForGit",
+	 "author": "Elias Baran Bauer",
+	 "year": "2019_WS",
+	 "status": 0
+	},
+    {
+      "title": "ZombieShooterDingsbums",
+      "folder": "ZombieShooterDingsbums",
+      "author": "Nico Oliver",
+      "year": "2019_WS",
+      "status":  1
+    },
+    {
+       "title": "SuperMario",
+       "folder": "SuperMario",
+       "author": "Benedikt Ortner",
+       "year": "2019_WS",
+       "status":  1
+     },{
+       "title": "GettingOverIt",
+       "folder": "GettingOverIt_Clone",
+       "author": "Raphael Eckmayr",
+       "year": "2019_WS",
+       "status":  -1
+     }
 ]
