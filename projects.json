@@ -29,13 +29,20 @@
 	 "year": "2019_WS",
 	 "status": 0
     },
-	{
-	 "title": "Tetris2Player",
-	 "folder": "2PlayerTetris-WebGLBuild",
-	 "author": "Philipp Seiringer, Patrick Gabriel",
-	 "year": "2019_WS",
-	 "status": 0
-    }
+  {
+    "title": "Tetris2Player",
+    "folder": "2PlayerTetris-WebGLBuild",
+    "author": "Philipp Seiringer, Patrick Gabriel",
+    "year": "2019_WS",
+    "status": 0
+  },
+  {
+    "title": "Untitle Zombie Game",
+    "folder": "Untitled Zombie Game",
+    "author": "Lukas Foro",
+    "year": "2019_WS",
+    "status":  0
+  }
    
      	 
 ]
