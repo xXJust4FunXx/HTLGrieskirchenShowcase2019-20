@@ -1,68 +1,74 @@
 [
-    {
+  {
     "title": "CybertruckRacing",
     "folder": "CybertruckRacing",
     "author": "Paul Wiesinger",
     "year": "2019_WS",
     "status": 0
-   },
-    {
-	 "title": "TowerDefense",
-	 "folder": "BetterTowerDefense",
-	 "author": "Julian Kronlachner",
-	 "year": "2019_WS",
-	 "info": "TowerDefense Game with unlimited lives",
-	 "status": 0
-    },
-    {
-	 "title": "emptytitle2",
-	 "folder": "emptyFolder2",
-	 "author": "emptyName2",
-	 "year": "2019_WS",
-	 "info": "EmptyInfo2",
-	 "status": 0
-    },
-    {
-	 "title": "TowerDefense",
-	 "folder": "TowerDefense",
-	 "author": "Sevdev",
-	 "year": "2019_WS",
-	 "status": 1
-    },
-	{
-	 "title": "AbaloneGameV2",
-	 "folder": "AbaloneV2_WebGL",
-	 "author": "Manuel",
-	 "year": "2019_WS",
-	 "status": 0
-    },
-    {
-        "title": "SpaceJumper",
-        "folder": "2PlayerTetris-WebGLBuild",
-        "author": "David Gangl",
-        "year": "2019_WS",
-        "status": 1
-	},
-	{
-	 "title": "Crusade",
-	 "folder": "Crusade",
-	 "author": "Fabian",
-	 "year": "2019_WS",
-	 "status": 0
-    },
-	{"title": "Tetris2Player",
-	 "folder": "2PlayerTetris-WebGLBuild",
-	 "author": "Philipp Seiringer, Patrick Gabriel",
-	 "year": "2019_WS",
-	 "status": 0
-    },
-	{
-	 "title": "TankGame",
-	 "folder": "TankGame",
-	 "author": "Sven Vucak",
-	 "year": "2019_WS",
-	 "status": 0
-    }
-   
-     	 
+  },
+  {
+    "title": "TowerDefense",
+    "folder": "BetterTowerDefense",
+    "author": "Julian Kronlachner",
+    "year": "2019_WS",
+    "info": "TowerDefense Game with unlimited lives",
+    "status": 0
+  },
+  {
+    "title": "emptytitle2",
+    "folder": "emptyFolder2",
+    "author": "emptyName2",
+    "year": "2019_WS",
+    "info": "EmptyInfo2",
+    "status": 0
+  },
+  {
+    "title": "TowerDefense",
+    "folder": "TowerDefense",
+    "author": "Sevdev",
+    "year": "2019_WS",
+    "status": 1
+  },
+  {
+    "title": "AbaloneGameV2",
+    "folder": "AbaloneV2_WebGL",
+    "author": "Manuel",
+    "year": "2019_WS",
+    "status": 0
+  },
+  {
+    "title": "SpaceJumper",
+    "folder": "2PlayerTetris-WebGLBuild",
+    "author": "David Gangl",
+    "year": "2019_WS",
+    "status": 1
+  },
+  {
+    "title": "Crusade",
+    "folder": "Crusade",
+    "author": "Fabian",
+    "year": "2019_WS",
+    "status": 0
+  },
+  {
+    "title": "Tetris2Player",
+    "folder": "2PlayerTetris-WebGLBuild",
+    "author": "Philipp Seiringer, Patrick Gabriel",
+    "year": "2019_WS",
+    "status": 0
+  },
+  {
+    "title": "TankGame",
+    "folder": "TankGame",
+    "author": "Sven Vucak",
+    "year": "2019_WS",
+    "status": 0
+  },
+  {
+    "title": "RunningPotatoGame",
+    "folder": "RunningPotatoGame",
+    "author": "Max Grubauer",
+    "year": "2019_WS",
+    "status": -1
+  }
 ]
